@@ -33,9 +33,9 @@ However, there's more to me than just coding.
 
 The above is a quote that I try to live by. Therefore, I like to try many different things and have a variety of hobbies. Some of which include the following:
 
--[x] Playing Basketball
--[x] Running
--[x] Playing Guitar
+- [x] Playing Basketball
+- [x] Running
+- [x] Playing Guitar
 - And many more...
   
 

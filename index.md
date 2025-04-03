@@ -7,7 +7,7 @@
 console.log("Hello World!")
 ```
 
-** The following is a little bit about me as a [programmer](the-person:) and a [person](the-programmer:)**
+** The following is a little bit about me as a [programmer](#the-programmer) and a [person](#the-person)**
 
 For a brief summary reference [here](/text.md)
 
